@@ -1,0 +1,7 @@
+{
+  "name": "biomMC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
